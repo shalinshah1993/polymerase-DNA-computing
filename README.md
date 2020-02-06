@@ -3,4 +3,4 @@ The repository contains MATLAB scripts for simulating systems using strand displ
 
 For more details, refer to our the full-paper:
 
-`Shalin Shah, Tianqi Song, Xin Song, Ming Yang and John Reif. Implementing arbitrary CRNs using strand displacing polymerase. In: Thachuk C., Liu Y. (eds) DNA Computing and Molecular Programming. DNA 2019. (in press)`
+`Shah S., Song T., Song X., Yang M., Reif J. (2019) Implementing Arbitrary CRNs Using Strand Displacing Polymerase. In: Thachuk C., Liu Y. (eds) DNA Computing and Molecular Programming. DNA 2019. Lecture Notes in Computer Science, vol 11648. Springer, Cham` [[pdf]](https://people.duke.edu/~sns37/assets/dna25_polymeraseCRN.pdf)
