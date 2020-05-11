@@ -1,4 +1,4 @@
-# (simulate) polymerase-based DNA computing
+# Towards DNA computing using a strand displacing polymerase
 The repository contains MATLAB scripts for simulating systems using strand displacing polymerase. Several systems are simulated such as: (a) Autocatalytic amplifier, (b) Consensus network, (c) Rock-paper-scissor oscillator. The paper will be presented at DNA 25 conference in Seattle, US (2019). 
 
 For more details, refer to our the full-paper:
